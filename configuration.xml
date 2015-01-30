@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sources>
+    <source>
+        <ServerName>192.168.0.143</ServerName>
+        <PortNumber>1433</PortNumber>
+        <DatabaseName>test_ege</DatabaseName>
+        <User>test1</User>
+        <Password>Password1</Password>
+    </source>
+    <source>
+        <ServerName>192.168.0.24</ServerName>
+        <PortNumber>1433</PortNumber>
+        <DatabaseName>testdb2</DatabaseName>
+        <User>test2</User>
+        <Password>Passwor2</Password>
+    </source>
+</sources>
